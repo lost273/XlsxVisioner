@@ -1,0 +1,10 @@
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\bin\Debug\XlsxVisioner.exe.config
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\bin\Debug\XlsxVisioner.exe
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\bin\Debug\XlsxVisioner.pdb
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.csprojResolveAssemblyReference.cache
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.csproj.ResolveComReference.cache
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.Form1.resources
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.Properties.Resources.resources
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.csproj.GenerateResource.Cache
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.exe
+D:\programs\VS2015\Projects\XlsxVisioner\XlsxVisioner\obj\Debug\XlsxVisioner.pdb
